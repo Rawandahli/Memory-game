@@ -1,2 +1,2 @@
-# Memory-game
+# wdi-fundamentals-memorygame
 assignment 
